@@ -1,0 +1,32 @@
+| No  | Date           | Build                                                                                                                                                                     |
+| :-- | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 152 | 29/03/20 00:31 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/65637984) |
+| 153 | 29/03/20 02:22 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/65677616) |
+| 150 | 28/03/20 20:13 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/65544981) |
+| 148 | 28/03/20 19:15 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/65521244) |
+| 146 | 28/03/20 15:53 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/65439897) |
+| 151 | 28/03/20 22:21 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/65595592) |
+| 149 | 28/03/20 20:05 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/65533142) |
+| 154 | 29/03/20 07:16 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/65783415) |
+| 145 | 27/03/20 19:45 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/64985273) |
+| 143 | 26/03/20 23:56 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/64316404) |
+| 147 | 28/03/20 18:42 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/65506650) |
+| 144 | 27/03/20 19:09 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/64974185) |
+| 132 | 25/03/20 07:04 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/62928976) |
+| 131 | 24/03/20 23:34 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/62713792) |
+| 129 | 24/03/20 20:49 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/62642202) |
+| 130 | 24/03/20 21:22 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/62659631) |
+| 128 | 24/03/20 20:46 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/62641513) |
+| 127 | 24/03/20 18:51 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/62581640) |
+| 136 | 25/03/20 16:32 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/63292524) |
+| 139 | 26/03/20 07:51 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/63750961) |
+| 137 | 26/03/20 05:45 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/63676796) |
+| 126 | 24/03/20 18:29 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/62573100) |
+| 133 | 25/03/20 07:40 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/62951436) |
+| 125 | 24/03/20 17:44 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/62548492) |
+| 134 | 25/03/20 07:44 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/62952828) |
+| 135 | 25/03/20 14:34 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/63221191) |
+| 138 | 26/03/20 07:35 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/63745105) |
+| 142 | 26/03/20 21:14 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/64253686) |
+| 141 | 26/03/20 08:29 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/63778243) |
+| 140 | 26/03/20 08:11 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/puppeteer-es-modules-esm-mocha-chai-expect/actions/runs/63768441) |
