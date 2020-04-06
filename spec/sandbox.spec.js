@@ -1,5 +1,5 @@
 import puppeteer from "puppeteer";
-import { expect } from "chai";
+import { assert } from "chai";
 
 let page;
 let browser;
@@ -27,9 +27,11 @@ describe("google search", () => {
 
   it("should be on google search page", async () => {
     await page.waitFor("h1");
-    const title = await page.$eval("h1", (el) => el.textContent);
 
-    expect(await page.title()).to.equal("Sandbox");
-    expect(title).to.equal("Sandbox");
+    const title = await page.title();
+    const header = await page.$eval("h1", (el) => el.textContent);
+
+    assert.strictEqual(title, "Sandbox");
+    assert.strictEqual(header, "Sandbox");
   });
 });
